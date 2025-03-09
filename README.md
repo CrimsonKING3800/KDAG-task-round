@@ -25,14 +25,14 @@ This repository contains solutions for the **KDAG selection task round**, which 
    pip install pygame
 2. Run the simulation script:
    ```bash
-   task_1.py
+   TASK 1.py
 ### Task 2: Music Analysis (Jupyter Notebook)
 1. Install dependencies:
    ```bash
    pip install numpy pandas matplotlib
 2. Open Jupyter Notebook and run
    ```bash
-   task_2.ipynb
+   TASK 2.ipynb
 
 ## Possible Improvements
 Task 1: Adding more interactive features to the simulation
