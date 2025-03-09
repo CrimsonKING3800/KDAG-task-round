@@ -9,13 +9,13 @@ This repository contains solutions for the **KDAG selection task round**, which 
 
 ### 🎮 Task 1: Pygame Simulation  
 - Developed a **custom simulation/game** using **Pygame**.  
-- The details and requirements are outlined in **[TASK_1.pdf](./TASK_1.pdf)**.  
+- The details and requirements are outlined in **[TASK 1.pdf](./TASK 1.pdf)**.  
 
 ### 🎵 Task 2: Music Genre Analysis  
 - Implemented **text-based music analysis** using **NumPy, Pandas, and Matplotlib**.  
 - The dataset consists of songs described by three keywords.  
 - The goal was to **vectorize keywords, reduce dimensionality, cluster similar songs, and analyze results**.  
-- Refer to **[TASK_2.pdf](./TASK_2.pdf)** and **[TASK_2_REPORT.pdf](./TASK_2_REPORT.pdf)** for a detailed breakdown.  
+- Refer to **[TASK 2.pdf](./TASK 2.pdf)** and **[TASK 2 REPORT.pdf](./TASK 2 REPORT.pdf)** for a detailed breakdown.  
 
 ## 🚀 How to Run  
 
